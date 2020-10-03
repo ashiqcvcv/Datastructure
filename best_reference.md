@@ -8,7 +8,11 @@ https://github.com/Py-Contributors/AlgorithmsAndDataStructure/tree/master/Python
 
 TheAlgorithms/Python
 https://github.com/TheAlgorithms/Python
+https://github.com/TheAlgorithms
 
+
+leetcode
+https://github.com/halfrost/LeetCode-Go
 
 something big dont focus at this stage
 https://github.com/geekcomputers/Python
